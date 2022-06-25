@@ -1,0 +1,25 @@
+{
+  "name": "dinesh_ipl_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dineshpeshwani/Dinesh_IPL_Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dineshpeshwani/Dinesh_IPL_Project/issues"
+  },
+  "homepage": "https://github.com/dineshpeshwani/Dinesh_IPL_Project#readme",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "csvtojson": "^2.0.10",
+    "highcharts": "^10.1.0",
+    "papaparse": "^5.3.2"
+  }
+}
